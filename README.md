@@ -2,7 +2,7 @@
 
 All app ports by @fijlowwwreal on TikTok.
 
-"Total Downloads" (https://img.shields.io/github/downloads/ysyhass/FijlowwwsAppPorts/total?style=for-the-badge&color=blue)
+![Total Downloads](https://img.shields.io/github/downloads/ysyhass/FijlowwwsAppPorts/total?style=for-the-badge&color=blue)
 
 «Feel free to use these apps as references anytime.»
 
