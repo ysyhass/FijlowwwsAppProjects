@@ -16,13 +16,14 @@ All app ports by @fijlowwwreal on TikTok.
 
 📦 What's Inside
 
-Platform| Apps
-🟢 ColorOS 16| 9
-🟢 ColorOS 17| 13
-🟢 OxygenOS 16| 1
-🟢 HyperOS 3| 6
-🟢 HyperOS 4| 4
-Total| 33
+| Platform | Apps |
+| :--- | :--- |
+| 🟢 ColorOS 16 | 9 |
+| 🟢 ColorOS 17 | 13 |
+| 🟢 OxygenOS 16 | 1 |
+| 🟢 HyperOS 3 | 6 |
+| 🟢 HyperOS 4 | 4 |
+| **Total** | **33** |
 
 ---
 
